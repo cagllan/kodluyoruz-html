@@ -1,2 +1,4 @@
-# kodluyoruz-html-odev
-html ödev
+# HTML ödev
+## Açıklama
+    HTML etiketleri kullanılarak yapılan basit hakkımda sayfası.
+
